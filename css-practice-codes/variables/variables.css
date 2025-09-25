@@ -1,0 +1,12 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+:root {
+  --main-color: purple;
+}
+
+p {
+  color: var(--main-color);
+}

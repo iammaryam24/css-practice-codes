@@ -1,0 +1,16 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.grid-container div {
+  background: lightgoldenrodyellow;
+  padding: 20px;
+  text-align: center;
+}

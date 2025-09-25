@@ -1,0 +1,9 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.named { color: red; }
+.hex { color: #3498db; }
+.rgb { color: rgb(0, 200, 100); }
+.hsl { color: hsl(280, 80%, 40%); }

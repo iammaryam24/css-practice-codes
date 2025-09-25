@@ -1,0 +1,28 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.btn {
+  padding: 10px 20px;
+  background: teal;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+.btn:hover {
+  background: darkslategray;
+}
+
+@keyframes bounce {
+  0%,100% { transform: translateY(0); }
+  50% { transform: translateY(-30px); }
+}
+.anim-box {
+  width: 100px;
+  height: 100px;
+  background: coral;
+  animation: bounce 2s infinite;
+  margin-top: 20px;
+}

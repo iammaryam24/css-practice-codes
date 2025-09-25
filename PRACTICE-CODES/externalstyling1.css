@@ -1,0 +1,27 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+/* Type selector */
+p {
+  color: #333;
+  font-size: 18px;
+}
+
+/* Class selector */
+.intro {
+  color: teal;
+  font-weight: bold;
+}
+
+/* ID selector */
+#special {
+  color: purple;
+  text-decoration: underline;
+}
+
+/* Descendant selector */
+div p {
+  font-style: italic;
+}

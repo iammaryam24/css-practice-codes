@@ -1,0 +1,16 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.bg-color {
+  background: lightblue;
+  padding: 20px;
+  margin: 10px;
+}
+
+.bg-image {
+  background: url("https://via.placeholder.com/150") no-repeat center/cover;
+  height: 150px;
+  margin: 10px;
+}

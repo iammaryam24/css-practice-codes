@@ -1,0 +1,17 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+@keyframes moveBox {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(100px); }
+  100% { transform: translateX(0); }
+}
+
+.animate-box {
+  width: 100px;
+  height: 100px;
+  background: pink;
+  animation: moveBox 4s infinite;
+}

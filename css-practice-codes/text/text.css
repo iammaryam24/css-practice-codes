@@ -1,0 +1,9 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.serif { font-family: "Times New Roman", serif; }
+.sans { font-family: Arial, sans-serif; }
+.shadow { text-shadow: 2px 2px 5px gray; }
+

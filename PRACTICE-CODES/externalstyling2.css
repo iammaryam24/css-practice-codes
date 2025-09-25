@@ -1,0 +1,18 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+.color-named {
+  color: red;
+}
+
+.color-hex {
+  color: #1abc9c;
+}
+
+.bg-example {
+  background: url("https://via.placeholder.com/200") no-repeat center/cover;
+  height: 150px;
+  border: 2px solid #555;
+}

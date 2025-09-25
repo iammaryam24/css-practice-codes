@@ -1,0 +1,18 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+a:hover {
+  color: red;
+}
+
+.pseudo-element::before {
+  content: "<<< ";
+  color: gray;
+}
+
+.pseudo-element::after {
+  content: " >>>";
+  color: gray;
+}

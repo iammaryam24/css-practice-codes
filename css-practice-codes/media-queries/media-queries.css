@@ -1,0 +1,14 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+p {
+  color: green;
+}
+
+@media (max-width: 600px) {
+  p {
+    color: red;
+  }
+}

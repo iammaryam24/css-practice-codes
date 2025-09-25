@@ -1,0 +1,20 @@
+* {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+}
+
+p {
+  color: blue;
+}
+
+#main-heading {
+  color: red;
+}
+
+.highlight {
+  background: yellow;
+}
+
+div p {
+  font-style: italic;
+}
